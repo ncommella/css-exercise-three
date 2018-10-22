@@ -23,11 +23,16 @@ nav {
 .container {
   margin: 0 auto;
   width: 420px;
+  background-color: white;
 }
 
 .content {
   display: inline-block;
   width: 70%;
+}
+
+.location {
+  margin: 1.5em auto;
 }
 
 .restaurant-list {
@@ -40,4 +45,8 @@ nav {
 
 .content h3 {
   font-size: 1.5em;
+}
+
+.location:hover {
+  background-color: gray;
 }
