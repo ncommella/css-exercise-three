@@ -15,9 +15,19 @@ nav {
   width: 420px;
 }
 
+.arrow {
+  display: inline-block;
+  width: 20%;
+}
+
 .container {
   margin: 0 auto;
   width: 420px;
+}
+
+.content {
+  display: inline-block;
+  width: 70%;
 }
 
 .restaurant-list {
